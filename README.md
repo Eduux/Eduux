@@ -1,4 +1,4 @@
-# Hi there, I'm André 👋  
+# Hi there, I'm Eduardo 👋  
 
 I'm a Senior Software Engineer specializing in Full Stack Web Development. I have over 8 years of experience working with web development. For the past few years, I have been working with React, Node.js, Next.js and Vue.
 
