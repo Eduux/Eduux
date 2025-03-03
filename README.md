@@ -15,5 +15,5 @@ And I'm currently working at Ilegra, as a Senior Software Engineer. You can find
 
 You can find my in my socials below. I'll be happy to meet you!
 
-- [LinkedIn](https://www.linkedin.com/in/atreib/)  
-- [X (formerly Twitter)](https://x.com/treibthedev)  
+- [LinkedIn](https://www.linkedin.com/in/eduardo-quadros-b861a4124/)  
+
